@@ -64,6 +64,8 @@ endmodule
 
 
 **TRUTH TABLE**
+
+
 <img width="692" height="352" alt="image" src="https://github.com/user-attachments/assets/29e1b2d2-a7d9-48dc-a817-2155485c8dd1" />
 
 
